@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Biking :bike:
+* Playing :game_die:
+* Design :art:
